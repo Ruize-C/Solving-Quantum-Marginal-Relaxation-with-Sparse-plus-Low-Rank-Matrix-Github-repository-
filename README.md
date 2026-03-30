@@ -1,6 +1,6 @@
 # Solving Quantum Marginal Relaxation with Sparse plus Low-Rank Matrix
 
-This repository contains the code used for two 2D models discussed in the paper:
+This repository contains the implementation code for the TFI 2D and Hubbard 2D experiments in the paper *Solving quantum two-marginal relaxation with sparse-plus-low-rank matrix*:
 
 - `TFI 2D/`: MATLAB scripts for the 2D transverse-field Ising model workflow, plus small-system DMRG ground-state energy estimation code.
 - `Hubbard 2D/`: MATLAB scripts for the 2D Hubbard model workflow, plus small-system DMRG ground-state energy estimation code.
